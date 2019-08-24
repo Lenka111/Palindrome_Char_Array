@@ -43,7 +43,9 @@ public class Palindrome1 {
             // and decrement the index by 1
             len--;
         }
-
+        
+        // Create a string from  the char array
+        // String class that takes char array as an argument 
          return new String(result);
 
 
